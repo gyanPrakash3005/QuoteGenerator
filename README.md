@@ -1,4 +1,3 @@
-markdown
 # Random Quote Generator Application
 
 This application is a simple web tool that allows users to fetch a new random quote from an API upon the click of a button. The fetched quote is then displayed in the browser interface.
